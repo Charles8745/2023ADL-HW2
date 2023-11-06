@@ -13,9 +13,9 @@
     ```
     conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
     ```
-- Step3: install requirement.txt 
+- Step3: install requirements.txt 
     ```
-    pip install -r requirement.txt
+    pip install -r requirements.txt
     ```
 
 ## Download models
